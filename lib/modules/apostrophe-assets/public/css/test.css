@@ -7,6 +7,7 @@ html {
   min-height: 100%;
   position: relative;
   padding-bottom: 200px;
+  font-family: "KoHo", sans-serif;
   color: #11214B;
   background-color: #f8f9fa;
   background-image: linear-gradient(#f8f9fa, #f8f9fa);
