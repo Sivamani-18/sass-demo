@@ -1,0 +1,38 @@
+$dark-color:#004B89;
+$light-color:#FFFFFF;
+$header-color:#0478D8;
+$button-color:#0060AF;
+$card-color:#11214B;
+//connect
+$connect-color:#24365F;
+$connect-dark-color:#121D36;
+//access
+$access-dark-color:#004B89;
+$access-header-color:#0060AF;
+//track
+$track-color:#1C666D;
+$track-dark-color:#0F4D53;
+//find$connect-dark-color
+$find-color:#EBA932;
+$find-dark-color:#D99822;
+//
+$font-family: 'KoHo', sans-serif;
+$button-font: 'Comfortaa', cursive;
+
+html{
+    height:100%;
+    font-family: $font-family;
+}
+
+
+.xds-body {
+  font-family: $font-family;
+  min-height: 100%;
+  position:relative;
+  padding-bottom:200px;
+  color: $card-color;
+  background-color: #f8f9fa;
+  background-image: linear-gradient(#f8f9fa,#f8f9fa);
+  background-position: center;
+  background-attachment: fixed;
+}
